@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0F0090-969D-4421-B53C-13D575D58048}|EFcorefirstTask\\EFcorefirstTask.csproj|c:\\users\\lenovo\\source\\repos\\efcorefirsttask\\efcorefirsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0F0090-969D-4421-B53C-13D575D58048}|EFcorefirstTask\\EFcorefirstTask.csproj|solutionrelative:efcorefirsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0F0090-969D-4421-B53C-13D575D58048}|EFcorefirstTask\\EFcorefirstTask.csproj|c:\\users\\lenovo\\source\\repos\\efcorefirsttask\\efcorefirsttask\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0F0090-969D-4421-B53C-13D575D58048}|EFcorefirstTask\\EFcorefirstTask.csproj|solutionrelative:efcorefirsttask\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0F0090-969D-4421-B53C-13D575D58048}|EFcorefirstTask\\EFcorefirstTask.csproj|c:\\users\\lenovo\\source\\repos\\efcorefirsttask\\efcorefirsttask\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0F0090-969D-4421-B53C-13D575D58048}|EFcorefirstTask\\EFcorefirstTask.csproj|solutionrelative:efcorefirsttask\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0F0090-969D-4421-B53C-13D575D58048}|EFcorefirstTask\\EFcorefirstTask.csproj|c:\\users\\lenovo\\source\\repos\\efcorefirsttask\\efcorefirsttask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0F0090-969D-4421-B53C-13D575D58048}|EFcorefirstTask\\EFcorefirstTask.csproj|solutionrelative:efcorefirsttask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datacontext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\EFcorefirstTask\\Datacontext.cs",
+              "RelativeDocumentMoniker": "EFcorefirstTask\\Datacontext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\EFcorefirstTask\\Datacontext.cs",
+              "RelativeToolTip": "EFcorefirstTask\\Datacontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:12:44.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\EFcorefirstTask\\Book.cs",
+              "RelativeDocumentMoniker": "EFcorefirstTask\\Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\EFcorefirstTask\\Book.cs",
+              "RelativeToolTip": "EFcorefirstTask\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:12:24.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\EFcorefirstTask\\Genre.cs",
+              "RelativeDocumentMoniker": "EFcorefirstTask\\Genre.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\EFcorefirstTask\\Genre.cs",
+              "RelativeToolTip": "EFcorefirstTask\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:12:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\EFcorefirstTask\\Program.cs",
+              "RelativeDocumentMoniker": "EFcorefirstTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcorefirstTask\\EFcorefirstTask\\Program.cs",
+              "RelativeToolTip": "EFcorefirstTask\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:11:51.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
