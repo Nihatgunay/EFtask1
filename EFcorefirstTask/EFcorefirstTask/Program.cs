@@ -84,6 +84,9 @@
             if (wantedbook != null)
             {
                 wantedbook.Name = book.Name;
+                wantedbook.GenreId = book.GenreId;
+                wantedbook.SalePrice = book.SalePrice;
+                wantedbook.CostPrice = book.CostPrice;
                 datacontext.SaveChanges();
             }
             else
